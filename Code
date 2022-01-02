@@ -1,0 +1,7 @@
+# taking input
+Num1 = float(input("Enter first number \n"))
+Num2 = float(input("Enter seconf number \n"))
+# logic
+sum = Num1 + Num2
+# output
+print("Sum of entered two numbers {2} and {0} are {1}".format(Num2, sum, Num1))
